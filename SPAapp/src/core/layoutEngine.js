@@ -1,0 +1,1 @@
+export class LayoutEngine{save(l){localStorage.layout=JSON.stringify(l)} load(){return JSON.parse(localStorage.layout||"{}")}}

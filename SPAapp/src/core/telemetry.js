@@ -1,0 +1,1 @@
+export function track(event,data){console.log("otel",event,data)}

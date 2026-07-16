@@ -1,0 +1,1 @@
+export function fuzzy(q,list){return list.filter(x=>x.includes(q))}

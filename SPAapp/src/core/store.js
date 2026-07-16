@@ -1,0 +1,1 @@
+export const store=new Proxy({theme:"corporate",user:null},{set(t,p,v){t[p]=v;window.dispatchEvent(new CustomEvent("store-change"));return true;}});

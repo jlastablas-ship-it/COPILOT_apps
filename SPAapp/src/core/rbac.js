@@ -1,0 +1,1 @@
+export const RBAC={admin:["*"],user:["dashboard"]};

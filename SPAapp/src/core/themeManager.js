@@ -1,0 +1,1 @@
+export const themes={corporate:{primary:"#2563eb"},green:{primary:"#16a34a"}};

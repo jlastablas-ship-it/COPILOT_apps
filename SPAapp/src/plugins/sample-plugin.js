@@ -1,0 +1,1 @@
+export default {name:"sample-plugin",init(){console.log("plugin")}};

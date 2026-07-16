@@ -1,0 +1,1 @@
+class DockPanel extends HTMLElement{} customElements.define("dock-panel",DockPanel);
