@@ -1,0 +1,1 @@
+customElements.define("command-palette",class extends HTMLElement{});

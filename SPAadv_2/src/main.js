@@ -1,0 +1,1 @@
+import "./shell/app-shell.js"; document.querySelector("#app").innerHTML="<app-shell></app-shell>";

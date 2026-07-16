@@ -1,0 +1,1 @@
+Module Federation, PWA, GridStack, OTEL, RBAC architecture.

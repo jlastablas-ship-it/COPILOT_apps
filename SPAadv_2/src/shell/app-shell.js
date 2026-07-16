@@ -1,0 +1,1 @@
+customElements.define("app-shell",class extends HTMLElement{connectedCallback(){this.innerHTML=`<h1>Enterprise V2</h1><command-palette></command-palette>`}});

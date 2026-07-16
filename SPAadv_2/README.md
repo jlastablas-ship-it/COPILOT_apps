@@ -1,0 +1,1 @@
+Enterprise V2 Starter with GridStack, PWA, OTEL, RBAC, Module Federation architecture skeleton.

@@ -1,0 +1,1 @@
+export const store=new Proxy({}, {set(t,p,v){t[p]=v;return true;}});
